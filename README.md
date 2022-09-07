@@ -57,6 +57,7 @@ More detailed description.
 
 - React v18
 - React Router v6
+- Redux
 - Redux RTK
 - Styled components
 
